@@ -8,6 +8,9 @@
     "sub_directories": [
         {
             "name": "Kubernetes部署文档"
+        },
+        {
+            "name": "Kubernetes学习笔记"
         }
     ],
     "tags": [
